@@ -2,5 +2,5 @@
 
 for item in phone computer cpu screen
 do
-  echo "Fruit: $item"
+  echo "Item: $item"
 done
