@@ -1,0 +1,6 @@
+#!/bin/bash
+
+for item in phone computer cpu screen
+do
+  echo "Fruit: $item"
+done
